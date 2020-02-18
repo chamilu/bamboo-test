@@ -1,0 +1,8 @@
+{
+  "name": "bamboo-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/chamilu/bamboo-test.git",
+  "author": "Chamil De Silva <cdesilva@palo-it.com>",
+  "license": "MIT"
+}
