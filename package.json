@@ -4,5 +4,10 @@
   "main": "index.js",
   "repository": "https://github.com/chamilu/bamboo-test.git",
   "author": "Chamil De Silva <cdesilva@palo-it.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
+  }
 }
