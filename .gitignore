@@ -1,0 +1,8 @@
+# editor related
+.vscode/
+
+# npm related
+node_modules
+
+# files
+*.log
